@@ -1,0 +1,6 @@
+#cmake 3.17.2
+#dlib 19.18
+#facerecognition
+python 3.8.6
+opencv python
+numpy
